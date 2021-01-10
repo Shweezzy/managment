@@ -5,7 +5,7 @@ const employee = new Schema({
     type: String,
     required: true,
   },
-  dateOfBirth: {
+  birthday: {
     type: String,
     required: true,
   },
